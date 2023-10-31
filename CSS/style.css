@@ -6,17 +6,57 @@
 nav{
     display: flex;
     align-items: center;
-    background-color: black;
+    /* background-color: black; */
     color: white;
+    margin-top: 4vh;
+}
+
+.logo{
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+.search{
+    display: flex;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+.search input{
+    height: 30px;
+    width: 300px;
+}
+
+.search-icon{
+    background-color: red;
+    width: 35px;
+    height: 33px;
 }
 
 .right-nav{
     display: flex;
     align-items: center;
+    align-content: space-between;
+    /* background-color: rgb(255, 123, 123); */
 }
+
+.review-section{
+    display: flex;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    align-items: center;
+}
+
+.sign-log{
+    display: flex;
+    margin-left: 3vw;
+    justify-items: center;
+    align-items: center;
+}
+
 
 .dropdown-menu{
     display: flex;
-    background-color: black;
-    color: white;
+    /* background-color: black; */
+    color: black;
 }
