@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.right-nav{
+    display: flex;
+    align-items: center;
+}
+
+.dropdown-menu{
+    display: flex;
+    background-color: black;
+    color: white;
+}

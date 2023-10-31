@@ -1,0 +1,13 @@
+.bold{
+    font-weight: bold;
+}
+
+.login{
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+.signup{
+    background-color: red;
+    border-radius: 3px;
+}
