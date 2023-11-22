@@ -28,4 +28,21 @@
 .margin-right{
     margin-right: 1.5vw;
 }
-    
+
+.centre{
+    text-align: center;
+}
+
+.cards{
+    /* margin-bottom: 5vh; */
+}
+
+.posts{
+    display: flex;
+    align-items: center;
+}
+
+.likes{
+    display: flex;
+    align-items: center;
+}
