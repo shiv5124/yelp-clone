@@ -1,8 +1,8 @@
-.bold{
+.bold {
     font-weight: bold;
 }
 
-.login{
+.login {
     border: 1px solid black;
     border-radius: 3px;
     margin-right: 5px;
@@ -10,39 +10,201 @@
     color: black;
 }
 
-.signup{
+.signup {
     background-color: red;
     border-radius: 3px;
     height: 33px;
 }
 
-.sign-log a{
+.sign-log a {
     text-decoration: none;
 }
 
-.dropdown-menu{
+.dropdown-menu {
     margin-top: 1vh;
     margin-left: 14vw;
 }
 
-.margin-right{
+.margin-right {
     margin-right: 1.5vw;
 }
 
-.centre{
+.centre {
     text-align: center;
 }
 
-.cards{
+.cards {
     /* margin-bottom: 5vh; */
 }
 
-.posts{
+.posts {
     display: flex;
     align-items: center;
 }
 
-.likes{
+.likes {
     display: flex;
     align-items: center;
+}
+
+/* categories */
+
+.hotels {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.shopping {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.night-life {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.active-life {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.spas {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.automotive {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home-services {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.more {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* hovering for categories */
+
+.hotels:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.shopping:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.night-life:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.active-life:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.spas:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.automotive:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.home-services:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.more:hover {
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+
+.bottom-section ul li{
+    list-style: none;
+}
+
+.bottom-section ul li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.underline:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+/* .flex{
+    display: flex;
+} */
+
+.float-l{
+    float: left;
+}
+
+.float-r{
+    float: right;
 }

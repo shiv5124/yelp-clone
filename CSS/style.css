@@ -87,10 +87,45 @@ nav{
     /* background-color: rgb(0, 21, 255); */
 }
 
+.category{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .upper-category{
     display: flex;
+    justify-content: center;
 }
 
 .lower-category{
     display: flex;
+    justify-content: center;
 }
+
+.bottom-section{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about{
+display: flex;
+flex-direction: column;
+}
+
+.discover{
+    display: flex;
+    flex-direction: column;
+}
+
+.yelp_for_business{
+    display: flex;
+    flex-direction: column;
+}
+
+/* .lang-countries{
+    display: flex;
+    flex-direction: column;
+} */
