@@ -37,7 +37,8 @@ nav{
     display: flex;
     align-items: center;
     align-content: space-between;
-    /* background-color: rgb(255, 123, 123); */
+    color: black;
+    background-color: rgb(255, 123, 123);
 }
 
 .review-section{

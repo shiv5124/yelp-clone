@@ -1,0 +1,72 @@
+@media screen and (max-width:1000px) {
+    .search input{
+        width: 80px;
+    }
+
+    .logo{
+        margin: 0;
+    }
+
+    .search{
+        margin: 0;
+    }
+
+    .review-section{
+        margin: 0;
+    }
+
+    .cards{
+        margin: 0;
+    }
+
+    .hotels {
+        width: 100px;
+        height: 100px;
+    }
+
+    .shopping {
+        width: 100px;
+        height: 100px;
+    }
+
+    .night-life {
+        width: 100px;
+        height: 100px;
+    }
+
+    .active-life {
+        width: 100px;
+        height: 100px;
+    }
+
+    .spas {
+        width: 100px;
+        height: 100px;
+    }
+
+    .automotive {
+        width: 100px;
+        height: 100px;
+    }
+
+    .home-services {
+        width: 100px;
+        height: 100px;
+    }
+
+    .more {
+        width: 100px;
+        height: 100px;
+    }
+
+    .category{
+        margin-bottom: 3%;
+    }
+
+    footer{
+        margin-top: 3%;
+    }
+
+
+
+}
